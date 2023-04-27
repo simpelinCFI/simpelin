@@ -1,0 +1,54 @@
+@use "sass:map";
+@use "modules/utilities/reset";
+@use "modules/utilities/generic";
+@use "modules/columns";
+@use "modules/container";
+@use "modules/banner";
+@use "modules/grid";
+@use "modules/card";
+@use "modules/image";
+@use "modules/media";
+@use "modules/footer";
+@use "modules/countdown";
+@use "modules/modal";
+@use "modules/alert";
+@use "modules/button";
+@use "modules/form";
+@use "modules/video";
+@use "modules/envelope";
+@use "modules/slider";
+
+@import "modules/utilities/mixins";
+@import "modules/variables";
+
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes");
+@import url("https://fonts.googleapis.com/css?family=Poppins:wght@0,300;0,400;0,700");
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+body {
+  color: map.get($colors, "dark");
+  margin: 0;
+  font-family: "Poppins";
+}
+
+p {
+  font-family: "Raleway";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Great Vibes";
+}
+
+.box {
+  padding: 1.25rem;
+  display: block;
+  border-radius: 6px;
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
+    0 0 0 1px rgb(10 10 10 / 2%);
+}
