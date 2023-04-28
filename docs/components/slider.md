@@ -59,7 +59,7 @@ Komponen untuk menampilkan gambar yang bergulir secara horizontal. Navigasi untu
 Pada Javascript anda bisa mengatur banyak image dan interval waktu perpindahan slide gambar otomatis. Pada gambar dibawah banyak gambar diatur untuk 5 gambar dan interval antar pepindahan gambar secara otomatis diatur untuk berpindah setiap 4 detik.
 
 ```js
-<script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/slider.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/slider.js"></script>
 
 <script>
     const slider = new InvSlider(5, 4000);

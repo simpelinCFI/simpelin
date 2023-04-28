@@ -14,7 +14,7 @@ Pastikan telah memasukkan script js untuk envelope music, letakan dibawah script
   integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
   crossorigin="anonymous"
 ></script>
-<script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/music_envelope.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/music_envelope.js"></script>
 ```
 
 Letakan kode ini di paling atas tag body dan pastikan button id untuk tombol buka undangan adalah “open-env”
