@@ -48,23 +48,38 @@ Contoh Penggunaan dari CDN di atas dinyatakan pada file .html berikut. Anda dapa
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/css/style.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/css/style.min.css"
+    />
     <title>Simpelin CFI</title>
-    <link rel="icon" type="image/x-icon" href="https://simpelincfi.github.io/simpelin/asset_images/logo.png">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://simpelincfi.github.io/simpelin/asset_images/logo.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <!-- Taruh body HTML anda disini... -->
   </body>
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/countdown.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/animation.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/video.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/music_envelope.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/slider.js"></script>
-  </head>
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/countdown.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/animation.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/video.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/music_envelope.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/simpelinCFI/simpelin@1.0.1/dist/js/slider.js"></script>
 </html>
 ```
