@@ -4,7 +4,7 @@
 
 Simpelin CSS Framework Invitation (CFI) adalah framework yang berfungsi untuk memudahkan anda dalam membuat website undangan tanpa perlu khawatir untuk menentukan struktur dari websitenya. CFI menyajikan styling ringan namun berkelas untuk mendukung pembuatan website anda.
 
-Gabung bersama komunitas kami pada Discord untuk mendapatkan informasi terkini terkait dengan Simpelin CFI. Kunjungi halaman ini: https://discord.gg/P5DwtPDV4F
+Gabung bersama komunitas kami pada Discord untuk mendapatkan informasi terkini terkait dengan Simpelin CFI. Kunjungi halaman ini: https://discord.gg/pu7xv2jhQW
 
 ## Getting Started
 
